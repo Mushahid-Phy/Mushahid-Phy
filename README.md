@@ -1,4 +1,5 @@
-![logo](https://github.com/Mushahid-Phy/Ashutosh-PMishra/blob/main/C1.jpg)
+
+![logo](https://github.com/Mushahid-Phy/Ashutosh-PMishra/blob/main/c1111.png)
 <h1 align="center">Hi 👋, I'm Mushahid Hussain</h1>
 <h3 align="center">A Physics Major with a Minor in Computer Science</h3>
 
